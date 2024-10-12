@@ -5,7 +5,7 @@ I am Tripti Shetty, a B.Tech student in Artificial Intelligence and Data Science
 <br>
 🎓 Pursuing B.Tech in AI and Data Science
 <br>
-💻 Coding enthusiast with a focus on Python, C/C++, and JavaScript
+💻 Coding enthusiast with a focus on Python, C, C++, and JavaScript
 <br>
 🌱 Currently learning more about Data Science, SQL, and Web Development
 <br>
